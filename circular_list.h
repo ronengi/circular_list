@@ -3,9 +3,10 @@
 
 
 typedef struct node_st *node_p;
+
 struct node_st {
-  int data;
-  node_p next;
+    int data;
+    node_p next;
 };
 
 void print_list(node_p);

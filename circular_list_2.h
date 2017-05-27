@@ -5,5 +5,4 @@
 node_p join(node_p, node_p);
 
 
-
 #endif
